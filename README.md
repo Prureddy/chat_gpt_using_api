@@ -1,4 +1,4 @@
-Creating your own chatgpt using ChatGPT api key
+Creating your chatgpt using ChatGPT api key
 # ChatGPT Application
 
 This is a simple Node.js application that utilizes the ChatGPT API to create a chat-based interface with the GPT-3.5-turbo model provided by OpenAI.
@@ -29,7 +29,7 @@ node chat_gpt_using_api.js
 Node.js (v14 or higher)
 Dependencies
 dotenv
-openai
+openAI
 readline
 ```
 ## License
